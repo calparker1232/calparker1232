@@ -1,8 +1,4 @@
-Here’s a README summary you could use for your GitHub profile based on your resume and cover letter:
-
----
-
-# Cal Parker's GitHub Profile
+# Cal Parker's GitHub Portfolio
 
 Hello! My name is **Cal Parker**, and I am a recent graduate from the University of California, Los Angeles, with a Bachelor of Arts in Business Economics. I am passionate about finance, economics, and data analysis.
 
