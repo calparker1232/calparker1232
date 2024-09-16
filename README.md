@@ -7,10 +7,6 @@ Hello! My name is **Cal Parker**, and I am a recent graduate from the University
 - **Certifications**: I recently passed the Level I CFA exam and am preparing to take the CFA Level II and FRM Level I exams to further enhance my expertise in financial analysis and risk management.
 - **Skills**: I have solid experience with **Python**, **R**, **SQL**, and **data analysis**, as well as proficiency in **Microsoft Suite** and **QuickBooks**.
   
-### Professional Experience:
-- **Sales Associate, Aviator Nation**: Currently working at the Laguna Beach store, where I received the first-ever Employee of the Quarter award and consistently lead the staff in sales.
-- **Guest Relations, Sawdust Art Festival**: Demonstrated leadership, customer service, and operational efficiency during six seasons of community-driven work.
-
 ### Academic Research:
 - Conducted research on **foreign exchange reserves** and **negative interest rate policies**, presenting findings at academic conferences, including a UCI Research Conference.
   
